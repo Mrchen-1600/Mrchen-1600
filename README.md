@@ -16,10 +16,13 @@
 
 <div align="center">
 <h4 align="center"> :computer: 原创项目  </h4>
-  
+
+<a href="https://github.com/Mrchen-1600/Building-RAG-Systems" target="_blank">Building-RAG-Systems: From Theory to Production</a><br>
 <a href="https://github.com/Mrchen-1600/TouchFish-offline" target="_blank">TouchFish - 一款专为打工人和学生设计的桌面隐私保护工具</a><br>
-<a href="https://github.com/Mrchen-1600/Content-Guard-Pro" target="_blank">ContentGuard Pro - 内容安全检测系统</a><br>
 <a href="https://github.com/Mrchen-1600/Automated-Diagnostic-System-For-Cervical-Cancer" target="_blank">基于深度学习的宫颈细胞在线分类识别系统V1.0</a><br>
+<a href="https://github.com/Mrchen-1600/Web-Content-Extractor" target="_blank">网页内容超级捕手 - 一键解析、下载、AI总结网页正文内容</a><br>
+<a href="https://github.com/Mrchen-1600/Article-Auto-Publisher" target="_blank">AutoPublish - 多平台文章自动发布系统</a><br>
+<a href="https://github.com/Mrchen-1600/Content-Guard-Pro" target="_blank">ContentGuard Pro - 内容安全检测系统</a><br>
 <a href="https://github.com/Mrchen-1600/AI-Enhancer" target="_blank"> Gemini/ChatGPT等主流AI大模型的增强脚本 </a><br>
 <a href="https://github.com/Mrchen-1600" target="_blank">更多开源项目... | 敬请期待</a><br>
 </div>
